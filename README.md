@@ -1,14 +1,14 @@
 # Note-Taker-App
 Takes notes and saves them using Express JS Framework
 
-#Description of App
+# Description of App
 This app's purpose is to provide the user with a clean interface to take accurate notes and save then to a json database
 
-#Technologies Used
+# Technologies Used
 1. Express.js
 2. BootStrap
 
-#Installation 
+# Installation 
 No installation is needed for this program
 
 #User Story
